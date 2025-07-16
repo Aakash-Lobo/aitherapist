@@ -9,7 +9,6 @@ require('dotenv').config();
 
 // server.js or index.js
 
-GROQ_API_KEY=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
 
 
 const app = express();
